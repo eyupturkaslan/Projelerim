@@ -1,0 +1,10 @@
+c:\users\eyupc\documents\visual studio 2012\Projects\Eyup_Turkaslan_60180000107\Eyup_Turkaslan_60180000107\bin\Debug\Eyup_Turkaslan_60180000107.exe.config
+c:\users\eyupc\documents\visual studio 2012\Projects\Eyup_Turkaslan_60180000107\Eyup_Turkaslan_60180000107\bin\Debug\Eyup_Turkaslan_60180000107.exe
+c:\users\eyupc\documents\visual studio 2012\Projects\Eyup_Turkaslan_60180000107\Eyup_Turkaslan_60180000107\bin\Debug\Eyup_Turkaslan_60180000107.pdb
+c:\users\eyupc\documents\visual studio 2012\Projects\Eyup_Turkaslan_60180000107\Eyup_Turkaslan_60180000107\obj\Debug\Eyup_Turkaslan_60180000107.csprojResolveAssemblyReference.cache
+c:\users\eyupc\documents\visual studio 2012\Projects\Eyup_Turkaslan_60180000107\Eyup_Turkaslan_60180000107\obj\Debug\Eyup_Turkaslan_60180000107.Form1.resources
+c:\users\eyupc\documents\visual studio 2012\Projects\Eyup_Turkaslan_60180000107\Eyup_Turkaslan_60180000107\obj\Debug\Eyup_Turkaslan_60180000107.giris.resources
+c:\users\eyupc\documents\visual studio 2012\Projects\Eyup_Turkaslan_60180000107\Eyup_Turkaslan_60180000107\obj\Debug\Eyup_Turkaslan_60180000107.Properties.Resources.resources
+c:\users\eyupc\documents\visual studio 2012\Projects\Eyup_Turkaslan_60180000107\Eyup_Turkaslan_60180000107\obj\Debug\Eyup_Turkaslan_60180000107.csproj.GenerateResource.Cache
+c:\users\eyupc\documents\visual studio 2012\Projects\Eyup_Turkaslan_60180000107\Eyup_Turkaslan_60180000107\obj\Debug\Eyup_Turkaslan_60180000107.exe
+c:\users\eyupc\documents\visual studio 2012\Projects\Eyup_Turkaslan_60180000107\Eyup_Turkaslan_60180000107\obj\Debug\Eyup_Turkaslan_60180000107.pdb
