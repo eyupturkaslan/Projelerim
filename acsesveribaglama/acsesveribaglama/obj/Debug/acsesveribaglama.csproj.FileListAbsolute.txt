@@ -1,0 +1,9 @@
+c:\users\eyupc\documents\visual studio 2012\Projects\acsesveribaglama\acsesveribaglama\bin\Debug\acsesveribaglama.exe.config
+c:\users\eyupc\documents\visual studio 2012\Projects\acsesveribaglama\acsesveribaglama\bin\Debug\acsesveribaglama.exe
+c:\users\eyupc\documents\visual studio 2012\Projects\acsesveribaglama\acsesveribaglama\bin\Debug\acsesveribaglama.pdb
+c:\users\eyupc\documents\visual studio 2012\Projects\acsesveribaglama\acsesveribaglama\obj\Debug\acsesveribaglama.csprojResolveAssemblyReference.cache
+c:\users\eyupc\documents\visual studio 2012\Projects\acsesveribaglama\acsesveribaglama\obj\Debug\acsesveribaglama.Form1.resources
+c:\users\eyupc\documents\visual studio 2012\Projects\acsesveribaglama\acsesveribaglama\obj\Debug\acsesveribaglama.Properties.Resources.resources
+c:\users\eyupc\documents\visual studio 2012\Projects\acsesveribaglama\acsesveribaglama\obj\Debug\acsesveribaglama.csproj.GenerateResource.Cache
+c:\users\eyupc\documents\visual studio 2012\Projects\acsesveribaglama\acsesveribaglama\obj\Debug\acsesveribaglama.exe
+c:\users\eyupc\documents\visual studio 2012\Projects\acsesveribaglama\acsesveribaglama\obj\Debug\acsesveribaglama.pdb

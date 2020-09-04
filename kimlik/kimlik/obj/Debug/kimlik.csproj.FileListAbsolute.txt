@@ -1,0 +1,9 @@
+c:\users\eyupc\documents\visual studio 2012\Projects\kimlik\kimlik\bin\Debug\kimlik.exe.config
+c:\users\eyupc\documents\visual studio 2012\Projects\kimlik\kimlik\bin\Debug\kimlik.exe
+c:\users\eyupc\documents\visual studio 2012\Projects\kimlik\kimlik\bin\Debug\kimlik.pdb
+c:\users\eyupc\documents\visual studio 2012\Projects\kimlik\kimlik\obj\Debug\kimlik.csprojResolveAssemblyReference.cache
+c:\users\eyupc\documents\visual studio 2012\Projects\kimlik\kimlik\obj\Debug\kimlik.Form1.resources
+c:\users\eyupc\documents\visual studio 2012\Projects\kimlik\kimlik\obj\Debug\kimlik.Properties.Resources.resources
+c:\users\eyupc\documents\visual studio 2012\Projects\kimlik\kimlik\obj\Debug\kimlik.csproj.GenerateResource.Cache
+c:\users\eyupc\documents\visual studio 2012\Projects\kimlik\kimlik\obj\Debug\kimlik.exe
+c:\users\eyupc\documents\visual studio 2012\Projects\kimlik\kimlik\obj\Debug\kimlik.pdb

@@ -1,0 +1,9 @@
+C:\Users\eyupc\Documents\Visual Studio 2012\Projects\fibonacci_formulsuz\fibonacci_formulsuz\bin\Debug\fibonacci_formulsuz.exe.config
+C:\Users\eyupc\Documents\Visual Studio 2012\Projects\fibonacci_formulsuz\fibonacci_formulsuz\bin\Debug\fibonacci_formulsuz.exe
+C:\Users\eyupc\Documents\Visual Studio 2012\Projects\fibonacci_formulsuz\fibonacci_formulsuz\bin\Debug\fibonacci_formulsuz.pdb
+C:\Users\eyupc\Documents\Visual Studio 2012\Projects\fibonacci_formulsuz\fibonacci_formulsuz\obj\Debug\fibonacci_formulsuz.csprojResolveAssemblyReference.cache
+C:\Users\eyupc\Documents\Visual Studio 2012\Projects\fibonacci_formulsuz\fibonacci_formulsuz\obj\Debug\fibonacci_formulsuz.Form1.resources
+C:\Users\eyupc\Documents\Visual Studio 2012\Projects\fibonacci_formulsuz\fibonacci_formulsuz\obj\Debug\fibonacci_formulsuz.Properties.Resources.resources
+C:\Users\eyupc\Documents\Visual Studio 2012\Projects\fibonacci_formulsuz\fibonacci_formulsuz\obj\Debug\fibonacci_formulsuz.csproj.GenerateResource.Cache
+C:\Users\eyupc\Documents\Visual Studio 2012\Projects\fibonacci_formulsuz\fibonacci_formulsuz\obj\Debug\fibonacci_formulsuz.exe
+C:\Users\eyupc\Documents\Visual Studio 2012\Projects\fibonacci_formulsuz\fibonacci_formulsuz\obj\Debug\fibonacci_formulsuz.pdb
