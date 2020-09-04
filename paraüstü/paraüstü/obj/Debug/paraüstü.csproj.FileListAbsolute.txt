@@ -1,0 +1,9 @@
+C:\Users\eyupc\Documents\Visual Studio 2012\Projects\paraüstü\paraüstü\bin\Debug\paraüstü.exe.config
+C:\Users\eyupc\Documents\Visual Studio 2012\Projects\paraüstü\paraüstü\bin\Debug\paraüstü.exe
+C:\Users\eyupc\Documents\Visual Studio 2012\Projects\paraüstü\paraüstü\bin\Debug\paraüstü.pdb
+C:\Users\eyupc\Documents\Visual Studio 2012\Projects\paraüstü\paraüstü\obj\Debug\paraüstü.csprojResolveAssemblyReference.cache
+C:\Users\eyupc\Documents\Visual Studio 2012\Projects\paraüstü\paraüstü\obj\Debug\paraüstü.Form1.resources
+C:\Users\eyupc\Documents\Visual Studio 2012\Projects\paraüstü\paraüstü\obj\Debug\paraüstü.Properties.Resources.resources
+C:\Users\eyupc\Documents\Visual Studio 2012\Projects\paraüstü\paraüstü\obj\Debug\paraüstü.csproj.GenerateResource.Cache
+C:\Users\eyupc\Documents\Visual Studio 2012\Projects\paraüstü\paraüstü\obj\Debug\paraüstü.exe
+C:\Users\eyupc\Documents\Visual Studio 2012\Projects\paraüstü\paraüstü\obj\Debug\paraüstü.pdb
