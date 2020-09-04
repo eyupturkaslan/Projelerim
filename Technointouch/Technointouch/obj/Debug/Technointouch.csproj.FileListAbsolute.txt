@@ -1,0 +1,16 @@
+c:\users\eyupc\documents\visual studio 2012\Projects\Technointouch\Technointouch\bin\Debug\Technointouch.exe.config
+c:\users\eyupc\documents\visual studio 2012\Projects\Technointouch\Technointouch\bin\Debug\Technointouch.exe
+c:\users\eyupc\documents\visual studio 2012\Projects\Technointouch\Technointouch\bin\Debug\Technointouch.pdb
+c:\users\eyupc\documents\visual studio 2012\Projects\Technointouch\Technointouch\obj\Debug\Technointouch.csprojResolveAssemblyReference.cache
+c:\users\eyupc\documents\visual studio 2012\Projects\Technointouch\Technointouch\obj\Debug\Technointouch.Form1.resources
+c:\users\eyupc\documents\visual studio 2012\Projects\Technointouch\Technointouch\obj\Debug\Technointouch.Properties.Resources.resources
+c:\users\eyupc\documents\visual studio 2012\Projects\Technointouch\Technointouch\obj\Debug\Technointouch.csproj.GenerateResource.Cache
+c:\users\eyupc\documents\visual studio 2012\Projects\Technointouch\Technointouch\obj\Debug\Technointouch.exe
+c:\users\eyupc\documents\visual studio 2012\Projects\Technointouch\Technointouch\obj\Debug\Technointouch.pdb
+c:\users\eyupc\documents\visual studio 2012\Projects\Technointouch\Technointouch\obj\Debug\Technointouch.Form2.resources
+c:\users\eyupc\documents\visual studio 2012\Projects\Technointouch\Technointouch\obj\Debug\Technointouch.Form3.resources
+c:\users\eyupc\documents\visual studio 2012\Projects\Technointouch\Technointouch\obj\Debug\Technointouch.Form4.resources
+c:\users\eyupc\documents\visual studio 2012\Projects\Technointouch\Technointouch\obj\Debug\Technointouch.Form5.resources
+c:\users\eyupc\documents\visual studio 2012\Projects\Technointouch\Technointouch\obj\Debug\Technointouch.Form6.resources
+c:\users\eyupc\documents\visual studio 2012\Projects\Technointouch\Technointouch\obj\Debug\Technointouch.Form7.resources
+C:\Users\eyupc\documents\visual studio 2012\Projects\Technointouch\Technointouch\obj\Debug\Technointouch.Form8.resources
