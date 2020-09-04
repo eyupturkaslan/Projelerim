@@ -1,0 +1,9 @@
+C:\Users\eyupc\Documents\Visual Studio 2012\Projects\matris\matris\bin\Debug\matris.exe.config
+C:\Users\eyupc\Documents\Visual Studio 2012\Projects\matris\matris\bin\Debug\matris.exe
+C:\Users\eyupc\Documents\Visual Studio 2012\Projects\matris\matris\bin\Debug\matris.pdb
+C:\Users\eyupc\Documents\Visual Studio 2012\Projects\matris\matris\obj\Debug\matris.csprojResolveAssemblyReference.cache
+C:\Users\eyupc\Documents\Visual Studio 2012\Projects\matris\matris\obj\Debug\matris.Form1.resources
+C:\Users\eyupc\Documents\Visual Studio 2012\Projects\matris\matris\obj\Debug\matris.Properties.Resources.resources
+C:\Users\eyupc\Documents\Visual Studio 2012\Projects\matris\matris\obj\Debug\matris.csproj.GenerateResource.Cache
+C:\Users\eyupc\Documents\Visual Studio 2012\Projects\matris\matris\obj\Debug\matris.exe
+C:\Users\eyupc\Documents\Visual Studio 2012\Projects\matris\matris\obj\Debug\matris.pdb
