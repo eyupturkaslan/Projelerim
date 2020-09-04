@@ -1,0 +1,9 @@
+C:\Users\eyupc\Documents\Visual Studio 2012\Projects\rasgele_isim\rasgele_isim\bin\Debug\rasgele_isim.exe.config
+C:\Users\eyupc\Documents\Visual Studio 2012\Projects\rasgele_isim\rasgele_isim\bin\Debug\rasgele_isim.exe
+C:\Users\eyupc\Documents\Visual Studio 2012\Projects\rasgele_isim\rasgele_isim\bin\Debug\rasgele_isim.pdb
+C:\Users\eyupc\Documents\Visual Studio 2012\Projects\rasgele_isim\rasgele_isim\obj\Debug\rasgele_isim.csprojResolveAssemblyReference.cache
+C:\Users\eyupc\Documents\Visual Studio 2012\Projects\rasgele_isim\rasgele_isim\obj\Debug\rasgele_isim.Form1.resources
+C:\Users\eyupc\Documents\Visual Studio 2012\Projects\rasgele_isim\rasgele_isim\obj\Debug\rasgele_isim.Properties.Resources.resources
+C:\Users\eyupc\Documents\Visual Studio 2012\Projects\rasgele_isim\rasgele_isim\obj\Debug\rasgele_isim.csproj.GenerateResource.Cache
+C:\Users\eyupc\Documents\Visual Studio 2012\Projects\rasgele_isim\rasgele_isim\obj\Debug\rasgele_isim.exe
+C:\Users\eyupc\Documents\Visual Studio 2012\Projects\rasgele_isim\rasgele_isim\obj\Debug\rasgele_isim.pdb

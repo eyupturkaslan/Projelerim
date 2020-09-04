@@ -1,0 +1,9 @@
+c:\users\eyupc\documents\visual studio 2012\Projects\quiz2\quiz2\bin\Debug\quiz2.exe.config
+c:\users\eyupc\documents\visual studio 2012\Projects\quiz2\quiz2\bin\Debug\quiz2.exe
+c:\users\eyupc\documents\visual studio 2012\Projects\quiz2\quiz2\bin\Debug\quiz2.pdb
+c:\users\eyupc\documents\visual studio 2012\Projects\quiz2\quiz2\obj\Debug\quiz2.csprojResolveAssemblyReference.cache
+c:\users\eyupc\documents\visual studio 2012\Projects\quiz2\quiz2\obj\Debug\quiz2.Form1.resources
+c:\users\eyupc\documents\visual studio 2012\Projects\quiz2\quiz2\obj\Debug\quiz2.Properties.Resources.resources
+c:\users\eyupc\documents\visual studio 2012\Projects\quiz2\quiz2\obj\Debug\quiz2.csproj.GenerateResource.Cache
+c:\users\eyupc\documents\visual studio 2012\Projects\quiz2\quiz2\obj\Debug\quiz2.exe
+c:\users\eyupc\documents\visual studio 2012\Projects\quiz2\quiz2\obj\Debug\quiz2.pdb
