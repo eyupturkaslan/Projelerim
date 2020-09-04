@@ -1,0 +1,111 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="stiller.css">
+<title>Untitled Document</title>
+</head>
+
+<body >
+<div id="container" >
+  <div id="banner">
+    <div id="logo"><img src="image/Adsız-1.fw.png" width="150" height="150" usemap="#Map">
+      <map name="Map">
+        <area shape="circle" coords="75,75,70" href="anasayfa.html">
+      </map>
+    </div>
+    <div id="cssmenu">
+      <ul>
+        <li><a href="anasayfa.html">Ana Sayfa</a></li>
+        <li><a href="sanatcılar.html">Sanatçılar</a></li>
+        <li><a href="muzikler.html">Eserler</a></li>
+         <li><a href="iletisim.html">Türk ve Dünya Edebiyatı</a></li>
+         <li class="active"><a href="hakkında.html">Hakkımızda</a></li>
+      </ul>
+    </div>
+  </div>
+  <div id="hakkımızda">
+    <div id="bilgi">
+      
+    <h1>HAKKIMIZDA</h1>   
+      <p>Bu site edebiyat ve dil hakkında sade ,doğru,yalın bilgileri aktarmak için tasarlanmıştır.. Tüm hakları saklıdır ©®</p>
+      
+    </div>
+    
+   <h1>İletişime geçin</h1>
+
+	<HR>
+		<form>
+		
+		<table align="left">
+			<tr>
+			<td width="50">Adı:</td>
+			<td> <input type="text" name="ad" placeholder="ad"></td>
+			</tr>
+			<tr>
+			<td width="50">Soyadı</td>
+			<td> <input type="text" name="soyad" placeholder="soyad"></td>
+			</tr>
+			
+		  </table>
+			<br>
+			<br>
+			<br>
+			<b>Cinsiyet:</b>
+			<br>
+			<select name="cinsiyet">
+				<br>
+		<option value="kiz">Kız</option>
+		<option value="erkek">ERKEK</option>
+				
+			</select>
+			<br>
+			<b>Konu</b>
+			<br>
+			<input type="Radio" name="sinif" value="1"  checked>Teknik<br>
+			<input type="Radio" name="sinif" value="2" >İçerik<br>
+			<input type="Radio" name="sinif" value="3" >Tavsiye<br>
+			<input type="Radio" name="sinif" value="4" >Şikayet<br>
+		
+			<b>En çok ne tür okursunuz</b>
+			<br>
+				<input type="checkbox" name="meyve" value="İngilizce">
+			Roman
+			<br>
+			
+			<input type="checkbox" name="meyve" value="Almanca">
+	     Hikaye
+			<br>
+		
+			<input type="checkbox" name="meyve" value="Fransızca">
+		 Gezi yazısı
+			<br>
+			
+			<input type="checkbox" name="meyve" value="turkce">
+			Deneme
+			
+			
+			
+			<br>
+			<b>Mesajınız</b>
+			<br>
+			<textarea rows="5" cols="40" name=""></textarea><br>
+			Telefon:
+			 <input type="text" name="tel" pattern="[0-9]{7}" title="Yedi rakamlı olmalı" required> <br>
+			Ülke:
+		  <input type="text" name="country_code" pattern="[A-Za-z]{3}" title="Three letter country code" required>
+		<br>
+			<input type="submit" value="Gönder"><br>
+				<input type="reset" value="temizle"><br>
+		 
+			
+</form>
+	  
+  </div>
+   
+  
+</div>
+ 
+</div>
+</body>
+</html>
